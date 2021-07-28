@@ -16,10 +16,11 @@ div .col{
 }
 .mid{
     background-image: url("https://images.unsplash.com/photo-1516900557549-41557d405adf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2l0eSUyMGRhcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+     
 }
 .myText{
-    padding-right: 75px; padding: 5px 10px; padding-right: 70px;
-    border-radius: 15%;
+    padding-right: 70px; padding-top: 2px; padding-bottom: 4px;
+    border-radius: 7%; border-color: blue; border-width: 5px;
 }
 button{
     margin:2px;
